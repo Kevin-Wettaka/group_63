@@ -3,3 +3,4 @@ README.md original file created by kevin and added some text by Mohamed to test 
 =======
 README file created by Kevin to practice branching and merging
 >>>>>>> kevin-branch
+A new README.md created by kevin to practice branching and merging
